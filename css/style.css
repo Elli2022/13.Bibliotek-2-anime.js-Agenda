@@ -1,0 +1,106 @@
+
+/* oneElement.js + keyframes.js */
+/* 
+div{
+    margin: 2rem;
+    width: 150px;
+    aspect-ratio: 1/1;
+    background-color: blueviolet;
+} */
+
+
+/* ------------------------------------------------ */
+
+
+/* multiple.js */
+
+/* #container, #buttonContainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+/* 
+h1{
+    border: 1px solid black; 
+    margin: 5rem .5rem 0;
+} */
+
+/* ---------------------------------------------*/
+/* controls.js */
+
+/* #divContainer, #buttonContainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+h1{
+    border: none; 
+    margin: 5rem .5rem 0;
+} */
+
+/* ------------ */
+
+/* oneElementKeyframes.js */
+/*  
+div{
+    margin-top: 200px;
+    position: absolut;
+    width: 150px;
+    aspect-ratio: 1/1;
+    background-color: blueviolet;
+}  */
+
+/* 
+--------------------------- */
+
+/* multipleElements2.js */
+
+
+ 
+#cirkel1{
+    margin-top: 200px;
+    position: absolut;
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color: red;
+} 
+
+
+#kvadrat1{
+    margin-top: 150px;
+    position: absolut;
+    width: 50px;
+    aspect-ratio: 1/1;
+    background-color:yellow;
+} 
+
+#cirkel2{
+    margin-top: 150px;
+    position: absolut;
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color:blue;
+} 
+
+
+#kvadrat2{
+    margin-top: 50px;
+    position: absolut;
+    width: 50px;
+    aspect-ratio: 1/1;
+    background-color:green;
+} 
+
+#cirkel3{
+    margin-top: 150px;
+    position: absolut;
+    width: 50px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    background-color:blue;
+} 
